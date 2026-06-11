@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
-<body>
 
     <style>
     * { box-sizing: border-box; }
@@ -96,7 +94,10 @@
     p.row-item:last-of-type  { border-bottom: none; border-radius: 0 0 12px 12px; }
     </style>
 
-    <?php
+
+</head>
+<body>
+       <?php
         echo "<h1 style='color:red'>W1 - adithep phadungthamchaiyo Bit.2/3 No.17</h1>";
     ?>
 
