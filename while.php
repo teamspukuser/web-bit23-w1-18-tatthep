@@ -98,7 +98,7 @@
 </head>
 <body>
        <?php
-        echo "<h1 style='color:red'>W1 - adithep phadungthamchaiyo Bit.2/3 No.17</h1>";
+        echo "<h1 style='color:red'>W1 - Tatthep Sangangam Bit.2/3 No.18</h1>";
     ?>
 
     <a href="index.php">index </a>
